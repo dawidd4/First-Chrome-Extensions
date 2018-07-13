@@ -32,3 +32,5 @@ function gotMessage(message, sender, sendResponse) {
         changings();
     }
 }
+
+// a new comment
